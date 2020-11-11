@@ -1,3 +1,1 @@
-# tribute_page-
-# tribute_page-
-# tribute_page-
+# It's a little practice for front page.
